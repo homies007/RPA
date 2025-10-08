@@ -1,0 +1,92 @@
+Practical 1: RPA Basics: Sequences and Flowcharts
+a. Create a simple sequence-based project.
+b. Create a flowchart-based project.
+c. Automate UiPath Number Calculation (Subtraction, Multiplication, Division of numbers).
+d. Create an automation UiPath project using different types of variables (number, datetime, Boolean, generic, array, data table)
+
+
+Practical 2: Decision making and looping
+a. Consider an array of names. We have to find out how many of them start with the
+letter "a". Create an automation where the number of names starting with "a" is.
+counted and the result is displayed.
+b. Demonstrate switch statement with an example.
+c. Create an automation To Print numbers from 1 to 10 with break after the writeline
+activity inside for each activity
+d. Create an automation using Do .. While Activity to print numbers from 5 to 1
+e. Create an automation using Delay Activity between two writeline activities to
+separate their execution by 5 seconds
+f. Create an automation to demonstrate use of decision statements (if)
+
+
+Practical 3: Types of Recording
+a. Basic Recording using Toolbar
+b. Basic Recording using Notepad
+c. Desktop Recording using Tool bar
+d. Desktop Recording by creating a workflow
+e. Web Recording e.g. Find the rating of the movie from imdb web site
+f. Web Recording manually
+
+
+Practical 4: Excel Automation
+a. Automate the process to extract data from an excel file into a data table and vice versa
+b. Create an automation To Write data to specific cell of an excel sheet.
+c. Create an automation To Read data to specific cell of an excel sheet.
+d. Create an automation To append data to specific cell of an excel sheet.
+e. Create an automation To sort a table of an excel sheet.
+f. Create an automation To filter a table of an excel sheet
+
+
+Practical 5: Different controls in UiPath
+a. Implement the attach window activity.
+b. Automate using Anchor Base.
+c. Automate using Element Exists.
+d. Automate using Find Children control.
+e. Use Get Ancestor control
+f. Use Find Relative control
+
+
+Practical 6: Keyboard and Mouse Events
+a. Demonstrate the following activities in UiPath:
+     i. Mouse (click, double click and hover)
+    ii. Type into
+   iii. Type Secure text
+b. Demonstrate the following events in UiPath:
+     i. Element triggering event
+    ii. Image triggering event
+   iii. System Triggering Event
+c. Automate the process of launching an assistant bot on a keyboard event.
+
+
+Practical 7: Screen Scraping and Web Scraping methods
+a. Automate the following screen scraping methods using UiPath:
+       i) Full Text
+b.    ii) Native
+c.   iii) OCR
+d. Demonstrate Data Scraping and display values in Message box.
+e. Demonstrate Screen Scraping for a pdf, web page and image file.
+
+
+Practical 8: PDF Automation and Exception Handling
+a. Read PDF With OCR
+b. Merge PDF's into one
+c. Get PDF Total Page count Using Regex
+d. Demonstrate Exception Handling using UiPath
+
+
+Practical 9: Email Automation
+a. Configure Email using UiPath
+b. Read Emails
+c. Send Email with Attachment
+d. Save Email Attachments
+e. Reply to Email
+
+
+Practical 10: Orchestrator management and mini project
+a. Deploy bots to Orchestrator
+b. Run jobs from Orchestrator
+c. Queue Introduction:
+    i. Add items to Queue.
+   ii. Get Queue item from Orchestrator
+d. Build UiPath Chatbot using Google dialogflow
+
+
